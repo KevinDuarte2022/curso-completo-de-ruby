@@ -6,3 +6,6 @@
 - If/Else/Elsif
 - Unless
 - Case
+- For
+- While
+- Loop

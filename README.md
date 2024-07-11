@@ -9,3 +9,5 @@
 - For
 - While
 - Loop
+- Times
+- Exercício para calcular idade de uma pessoa

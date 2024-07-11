@@ -1,6 +1,6 @@
 # Curso completo de Ruby
 
-Estou fazendo um curso completo de Ruby, da equipe do OneBitCode. Aqui nesse repositório tem todos os aprendizados e exercícios desse curso.
+Estou fazendo um curso completo de Ruby, da equipe do OneBitCode. Aqui nesse repositório coloquei tudo o que aprendi nesse curso e vários exercícios.
 
 - Primeiro código com Ruby. Olá + seu nome. 
 - Calculadora para somar 2 números inteiros.

@@ -1,4 +1,4 @@
-print 'Diigite o mês que você nasceu: '
+print 'Digite o mês que você nasceu: '
 
 mes = gets.chomp.to_i
 

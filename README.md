@@ -13,3 +13,4 @@ Estou fazendo um curso completo de Ruby, da equipe do OneBitCode. Aqui nesse rep
 - Loop
 - Times
 - Exercício para calcular idade de uma pessoa
+- Exercício calculadora completa

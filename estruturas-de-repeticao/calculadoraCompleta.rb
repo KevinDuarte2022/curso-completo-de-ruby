@@ -8,6 +8,7 @@ def menu
     puts "0 - Sair"
 end
 
+
 def obter_numero(mensagem)
     print mensagem
     gets.chomp.to_f
